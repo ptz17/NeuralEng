@@ -8,4 +8,4 @@ Project 3: Electrocutaneous Stimulation & Haptic Feedback
 
 Project 4: Functional Electrical Stimulation & Real-Time Control of Biological Limbs 
 
-Final Project: Improving Prosthetic Reaction Time via Incorporating Stimulating Feedback (Through a really fun T-Rex Dino game :) )
+Final Project: Improving Prosthetic Reaction Time via Incorporating Stimulating Feedback (Through a really fun T-Rex Dino game :) check out the demo video!)
